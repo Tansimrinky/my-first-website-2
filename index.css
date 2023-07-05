@@ -1,0 +1,10 @@
+div{
+    background-color: rgb(165, 161, 161);
+    border: none ;
+    border-radius: 10px;
+    margin: 1%;
+    padding: 10px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px grey;
+    font-family: cursive;
+}
